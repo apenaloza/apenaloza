@@ -1,11 +1,11 @@
 <h1 align="center"><b>Hi , I'm Alejandro Peñaloza </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
-<img align="right" width=300px alt="programming" src="https://tenor.com/es-CL/view/hacker-hacker-man-hacking-hackers-hack-gif-23864910" />
+<img align="right" width=300px alt="programming" src="https://media1.tenor.com/m/5ry-200hErMAAAAd/hacker-hacker-man.gif" />
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2swOG0yeTZnczZtczF1YW12Z3gwazZ0cWo5cXFxMTU4aXE4dG5vZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGhpQ5NMoWKQurlHwI/giphy.webp" width="30px">&nbsp;***About me***
 
 I am a computer engineer, full stack programmer, teacher at a vocational institute. Every day I learn something new, I like to solve problems and build modern solutions to make everyday life easier. Always trying to develop new, productive and innovative things.
-- 🌱 I’m currently learning ...
+- 💻I’m currently learning ...
   - ReactJS
   - Express
   - Postgres
@@ -23,7 +23,7 @@ I am a computer engineer, full stack programmer, teacher at a vocational institu
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src= "https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white">
+  <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
 
  
 
