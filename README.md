@@ -4,7 +4,7 @@
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2swOG0yeTZnczZtczF1YW12Z3gwazZ0cWo5cXFxMTU4aXE4dG5vZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGhpQ5NMoWKQurlHwI/giphy.webp" width="30px">&nbsp;***About me***
 
-I am a computer engineer, full stack programmer, teacher at a vocational institute. Every day I learn something new, I like to solve problems and build modern solutions to make everyday life easier. Always trying to develop new, productive and innovative things.
+I am a computer engineer, full stack programmer, teacher at a professional higher education institute. Every day I learn something new, I like to solve problems and build modern solutions to make everyday life easier. Always trying to develop new, productive and innovative things.
 - 💻I’m currently learning ...
   - ReactJS
   - Express
