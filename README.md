@@ -6,9 +6,9 @@
 
 I am a computer engineer, full stack programmer, teacher at a professional higher education institute. Every day I learn something new, I like to solve problems and build modern solutions to make everyday life easier. Always trying to develop new, productive and innovative things.
 - 💻I’m currently learning ...
-  - ReactJS
-  - Express
-  - Postgres
+  - [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+  - [![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
+  - [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
 - ✔ Ask me about anything, I am happy to help<br>
 - 📫 Reach out to me at: <a href="alejandro@penaloza.net">alejandro@penaloza.net</a>
 
@@ -24,6 +24,7 @@ I am a computer engineer, full stack programmer, teacher at a professional highe
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src= "https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
 
  
 
