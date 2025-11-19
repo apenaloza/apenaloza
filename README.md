@@ -51,7 +51,7 @@ I am a computer engineer, full stack programmer, teacher at a professional highe
 
 <h2>Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=apenaloza&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/apenaloza)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=apenaloza&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/apenaloza)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=apenaloza&theme=material-palenight)](https://github.com/apenaloza)
 </div>
 
