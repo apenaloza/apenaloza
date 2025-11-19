@@ -51,7 +51,7 @@ I am a computer engineer, full stack programmer, teacher at a professional highe
 
 <h2>Github stats:</h2> 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=apenaloza&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
+<a href="https://github.com/apenaloza"><img src="https://streak-stats.demolab.com?user=apenaloza&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak" /></a>
 </div>
 
 
